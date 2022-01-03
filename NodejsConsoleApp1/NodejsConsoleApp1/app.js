@@ -13,3 +13,7 @@ var a;
 a = 7;
 var b;
 b = a;
+
+var z = 9;
+var myFirstName = "Anton";
+var myLastName = "Evtisov";
