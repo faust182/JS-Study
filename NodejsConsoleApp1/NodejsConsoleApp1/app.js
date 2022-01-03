@@ -6,3 +6,5 @@ console.log('Hello world');
 /* My
 second
 comment */
+
+var myName;
